@@ -1,0 +1,15 @@
+D:\gb\C#Homework4\C#-Homework6\task 41\bin\Debug\net6.0\task 41.exe
+D:\gb\C#Homework4\C#-Homework6\task 41\bin\Debug\net6.0\task 41.deps.json
+D:\gb\C#Homework4\C#-Homework6\task 41\bin\Debug\net6.0\task 41.runtimeconfig.json
+D:\gb\C#Homework4\C#-Homework6\task 41\bin\Debug\net6.0\task 41.dll
+D:\gb\C#Homework4\C#-Homework6\task 41\bin\Debug\net6.0\task 41.pdb
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.csproj.AssemblyReference.cache
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.AssemblyInfoInputs.cache
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.AssemblyInfo.cs
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.csproj.CoreCompileInputs.cache
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.dll
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\refint\task 41.dll
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.pdb
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\task 41.genruntimeconfig.cache
+D:\gb\C#Homework4\C#-Homework6\task 41\obj\Debug\net6.0\ref\task 41.dll
